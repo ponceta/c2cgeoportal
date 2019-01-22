@@ -30,6 +30,7 @@
 /docker/qgisserver/commons/
 /docker/admin-build/Dockerfile
 /docker/admin-build/npm-packages
+/docker/qgisserver/acceptance_tests/geomapfish.yaml
 /docker/test-db/12-alembic.sql
 /docker/test-db/13-alembic-static.sql
 /docker/test-mapserver/mapserver.map
